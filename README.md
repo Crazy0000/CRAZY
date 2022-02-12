@@ -42,9 +42,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Crazy0000/CTAZY) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Crazy0000/CRAZY) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Crazy0000/CTAZY)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Crazy0000/CRAZY)
   
      </div>
 <br>
@@ -60,7 +60,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Crazy0000/CTAZY
+$ git clone https://github.com/Crazy0000/CRAZY
 $ cd Crazy
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -70,7 +70,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Crazy0000/CTAZY
+$ git clone https://github.com/Crazy0000/CRAZY
 $ cd Crazy
 $ chmod +x *
 $ npm i
